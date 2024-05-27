@@ -18,6 +18,7 @@ ALLOWED_HOSTS = [
     '172.31.98.238',  # Añade esta línea con tu dirección IP local
     '192.168.1.74',
     '192.168.180.7',
+    '192.168.155.7',
 ]
 
 
